@@ -9,3 +9,6 @@ In the navigation menu I've added 5 sections. Home,Breeds,Care & Traning, Fun Fa
 
 In the body section I've added 3 images in list view and chaned the corners to round and added hyperlink to each of the 3 body images. Thouse hyperlink in future will lead to theri specific profile.
 
+
+Here I've changed the title of the website and added details in the image and 
+Added a new feedback form along.
