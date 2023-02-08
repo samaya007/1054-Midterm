@@ -1,0 +1,49 @@
+header {
+  text-align: center;
+
+  color: rgb(197, 124, 29);
+
+}
+
+
+body {
+    background-color: lightcyan;
+  }
+/* end of backgrounf*/
+
+nav {
+  background-color: gray;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  display: block;
+  font-weight: bold;
+}
+
+
+nav a:hover{
+
+
+    background: pink;
+    color: red;
+}
+
+/* end of navigation menu*/
+
+img {
+  border-radius: 8px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
